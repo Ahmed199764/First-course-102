@@ -7,7 +7,7 @@
 5-Terminal
 
 
-###We took also How to install Ubuntu , Visual studio and few things more.
+### We took also How to install Ubuntu , Visual studio and few things more.
 
 #OutLine
 
