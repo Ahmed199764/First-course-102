@@ -12,8 +12,7 @@ to keep your slef in growth mindset:
 #Ahmed Ghaleb Abu Samaan <br/>
 ### *My Name is **Ahmed Ghaleb Abu Samaan** ,* I have 22 years old, I live in Jordan exactly at amaan, Gradudated from University Of Jordan after that i started new course with Luminus Education.  
 <br/>
-*My FaceBook Account
-    *[FaceBook]([GitHub](http://github.com))
+My FaceBook Account [FaceBook](https://web.facebook.com/ahmed.abusamaan)
 
 <br/>
 
