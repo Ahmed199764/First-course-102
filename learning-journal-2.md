@@ -1,10 +1,11 @@
 # 2/2/2020 <br/>
 ### Today we took how to style text in markdown (md) :- <br/>
-1-md helps us to style the text (bold,italic,h1~h6,etc..)
-2-Create Tables
-3-Links
-4-images
-5-Terminal
+
+1. md helps us to style the text (bold,italic,h1~h6,etc..)
+2. Create Tables
+3. Links
+4. images
+5. Terminal
 
 
 ### We took also How to install Ubuntu , Visual studio and few things more.
