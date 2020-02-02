@@ -1,6 +1,6 @@
-##learning-journal 
-**Bold** 
-*Italic* 
+##learning-journal  <br/>
+**Bold**  <br/>
+*Italic*  <br/>
 **growth mindset is the way that you keep your mind ready to work hard, also its all about being ready for learning** 
 *to keep your slef in growth mindset:* 
 1.Never Give up. 
