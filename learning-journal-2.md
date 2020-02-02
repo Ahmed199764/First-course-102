@@ -1,5 +1,5 @@
-#2/2/2020 <br/>
-###Today we took how to style text in markdown (md) :- <br/>
+# 2/2/2020 <br/>
+### Today we took how to style text in markdown (md) :- <br/>
 1-md helps us to style the text (bold,italic,h1~h6,etc..)
 2-Create Tables
 3-Links
