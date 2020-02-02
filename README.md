@@ -1,4 +1,4 @@
-##Amaan-102
+##learning-journal
 **Bold**
 *Italic*
 ## Welcome to GitHub Pages
