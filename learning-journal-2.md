@@ -13,7 +13,7 @@
 
 Numbers | Title |  Description
 ------------ | ------------- | -------------
-1 | Style text | **bold**,*italic*, # h1 ## h2 ### h3 #### h4 ##### h5 ####### h6
+1 | Style text | **bold**,*italic*, h1~h6
 2 | Tables | i think this table enough to descripe
 3 | Links | [FaceBook](https://web.facebook.com/ahmed.abusamaan)
 4 | Images | inset images into the page
