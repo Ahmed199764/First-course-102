@@ -18,3 +18,12 @@ Numbers | Title |  Description
 3 | Links | [FaceBook](https://web.facebook.com/ahmed.abusamaan)
 4 | Images | inset images into the page
 5 | Terminal | Graphical user interfaces (GUIs), allow you to to accomplish daily tasks by interacting with windows and icons, and are helpful for many tasks.
+
+
+**NotePad++ is a free text editor for Windows Computers only**
+**TextWrangler is for Mac computers only, and you used to be able to download it from the Mac App Store.**
+**BB Edit is software that you purchase. But BB Edit comes with a 30-
+day free trial. After the 30 days is over, if you still want the free
+version, simply continue using BB Edit, and you’ll get the same
+features as you would have gotten in TextWrangler.**
+
